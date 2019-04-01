@@ -1,3 +1,3 @@
-# quick_access_toolbar
+# Configuration files
 
-MS Word and Outlook customization files.
+This repository holds various configuration files.
